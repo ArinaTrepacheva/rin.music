@@ -1,0 +1,17 @@
+
+.card:hover{
+outline: 4 px solid #ffdb4d;
+}
+.on{
+    outline: 4 px solid #ffdb4d;
+}
+.album a{
+    color: rgb(74, 77, 80);
+}
+.albums .card:hover{
+    outline:4px solid #ffdb4d
+}
+.card-text{
+    text-decoration: none;
+    color: black;
+}
